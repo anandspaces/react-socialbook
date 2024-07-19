@@ -1,0 +1,16 @@
+.homeContainer {
+  display: flex;
+  width: 100%;
+  /* Ensuring container fits the viewport height */
+  min-height: calc(100vh - 50px); /* Adjust if you have a topbar height */
+  padding: 20px;
+  box-sizing: border-box; /* Ensures padding is included in the element's total width and height */
+  gap: 20px; /* Adds space between the flex items */
+}
+
+/* Optionally add responsive design for smaller screens */
+@media (max-width: 768px) {
+  .homeContainer {
+    flex-direction: column; /* Stack components vertically on smaller screens */
+  }
+}

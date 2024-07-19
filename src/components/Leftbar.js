@@ -47,11 +47,47 @@ export default function Leftbar() {
         <hr className='leftbarHr'/>
         <ul className='leftbarFriendList'>
           <li className='leftbarFriend'>
-            <img className='leftbarFriendImg' src='/images/tool.jpeg' alt=''/>
+            {/* <img className='leftbarFriendImg' src='/assets/tool.jpeg' alt=''/> */}
             <span className='leftbarFriendName'>Anand</span>
           </li>
           <li className='leftbarFriend'>
-            <img className='leftbarFriendImg' src='/images/tool.jpeg' alt=''/>
+            {/* <img className='leftbarFriendImg' src='/assets/tool.jpeg' alt=''/> */}
+            <span className='leftbarFriendName'>Zoo</span>
+          </li>
+          <li className='leftbarFriend'>
+            {/* <img className='leftbarFriendImg' src='/assets/tool.jpeg' alt=''/> */}
+            <span className='leftbarFriendName'>Zoo</span>
+          </li>
+          <li className='leftbarFriend'>
+            {/* <img className='leftbarFriendImg' src='/assets/tool.jpeg' alt=''/> */}
+            <span className='leftbarFriendName'>Zoo</span>
+          </li>
+          <li className='leftbarFriend'>
+            {/* <img className='leftbarFriendImg' src='/assets/tool.jpeg' alt=''/> */}
+            <span className='leftbarFriendName'>Zoo</span>
+          </li>
+          <li className='leftbarFriend'>
+            {/* <img className='leftbarFriendImg' src='/assets/tool.jpeg' alt=''/> */}
+            <span className='leftbarFriendName'>Zoo</span>
+          </li>
+          <li className='leftbarFriend'>
+            {/* <img className='leftbarFriendImg' src='/assets/tool.jpeg' alt=''/> */}
+            <span className='leftbarFriendName'>Zoo</span>
+          </li>
+          <li className='leftbarFriend'>
+            {/* <img className='leftbarFriendImg' src='/assets/tool.jpeg' alt=''/> */}
+            <span className='leftbarFriendName'>Zoo</span>
+          </li>
+          <li className='leftbarFriend'>
+            {/* <img className='leftbarFriendImg' src='/assets/tool.jpeg' alt=''/> */}
+            <span className='leftbarFriendName'>Zoo</span>
+          </li>
+          <li className='leftbarFriend'>
+            {/* <img className='leftbarFriendImg' src='/assets/tool.jpeg' alt=''/> */}
+            <span className='leftbarFriendName'>Zoo</span>
+          </li>
+          <li className='leftbarFriend'>
+            {/* <img className='leftbarFriendImg' src='/assets/tool.jpeg' alt=''/> */}
             <span className='leftbarFriendName'>Zoo</span>
           </li>
         </ul>
